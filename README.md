@@ -1,4 +1,3 @@
-### Hi there 👋 I'm Berat Berber!
+### Hi there 👋 I'm Berat!
 
-- I'm a computer science student at Dokuz Eylul University in Turkiye
-- I'm currently interested in AI & Data Science
+- I am a computer science student who is interested in AI and Data Science
