@@ -15,6 +15,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berat-berber&show_icons=true&locale=en&layout=compact" alt="berat-berber" /></p>
 
+<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en" alt="berat-berber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berat-berber&" alt="berat-berber" /></p>
