@@ -15,7 +15,7 @@
 
 <div style="display: flex; flex-direction: column;">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berat-berber&show_icons=true&locale=en&layout=compact&theme=dark" alt="berat-berber" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=berat-berber&show_icons=true&locale=en&layout=compact&theme=dark" alt="berat-berber" />
   </p>
   <p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en&theme=dark" alt="berat-berber" />
