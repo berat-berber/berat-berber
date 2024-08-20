@@ -24,3 +24,5 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berat-berber&theme=dark" alt="berat-berber" />
   </p>
 </div>
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Berat110)
