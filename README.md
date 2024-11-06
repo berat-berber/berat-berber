@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berat Berber</h1>
-<h3 align="center">Computer Science Student | Passionate About Data Science & Machine Learning</h3>
+<h3 align="center">Junior Backend Developer</h3>
 
 - 📫 How to reach me -> **berat0berber@gmail.com**
 
