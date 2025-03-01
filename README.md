@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berat Berber</h1>
 
-- About me -> <b>Computer Science Student | Interested in Backend Development & AI Engineering</b>
+- About me -> <b>Computer Science Student & Backend Developer</b>
 - 📫 How to reach me -> **berat0berber@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
