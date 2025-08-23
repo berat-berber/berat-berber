@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 <h3>👨‍💻 Who Am I?</h3> 
-I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I specialize in Backend Development, mainly on ASP.NET Core and Spring
+I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I specialize in Backend Development, primarily with ASP.NET Core, and also work with Spring Boot
 
 <h3>📫 Contact me!</h3>
 <p align="left">
@@ -23,7 +23,6 @@ I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I speci
 
 <h3>Frameworks</h3>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
 
