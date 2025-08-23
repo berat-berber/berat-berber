@@ -1,13 +1,13 @@
-<h1 align="left">Hi 👋, I'm Berat!</h1>
+<h1>Hi 👋, I'm Berat!</h1>
 
-<h2 align="left">About Me</h2>
-<p>
+<h2>About Me</h2>
+
 <h3>👨‍💻 Who Am I?</h3> 
-  I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I specilize on Backend Development, mainly on ASP.NET Core and Spring
+I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I specialize in Backend Development, mainly on ASP.NET Core and Spring
 
-<h3 align="left">📫 Contact me!</h3>
+<h3>📫 Contact me!</h3>
 <p align="left">
-<a href="mailto:berat0berber@gmail.com"><img align="center" src="https://camo.githubusercontent.com/103e288a5e9194c4cbbaf416dd7652c1fa89a4b15e11b75a6bc3c8a136c22fcd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" height="30" widht="40" /></a>
+<a href="mailto:berat0berber@gmail.com"><img align="center" src="https://camo.githubusercontent.com/103e288a5e9194c4cbbaf416dd7652c1fa89a4b15e11b75a6bc3c8a136c22fcd/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/berat-berber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berat-berber" height="30" width="40" /></a>
 </p>
 
@@ -38,12 +38,8 @@
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
 
-
-<h2 align="left">Stats</h2>
-<div style="display: flex; flex-direction: column;">
-  <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en&theme=dark" alt="berat-berber" />
-  </p>
+<h2>Stats</h2>
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />
+  <img src="https://leetcard.jacoblin.cool/Berat110?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats" height="196" style="vertical-align: middle;" />
 </div>
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Berat110)
