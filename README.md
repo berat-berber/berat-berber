@@ -3,7 +3,7 @@
 <h2>About Me</h2>
 
 <h3>👨‍💻 Who Am I?</h3> 
-I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I specialize in Backend Development, primarily with ASP.NET Core and also work with Spring Boot
+I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I specialize in Backend Development, primarily with ASP.NET Core and also work with Spring Boot.
 
 <h3>📫 Contact me!</h3>
 <p align="left">
