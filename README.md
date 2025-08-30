@@ -37,8 +37,9 @@ I'm a Computer Science student at Dokuz Eylul University, Izmir, Turkey. I speci
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 <code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kubernetes.png" alt="Kubernetes" title="Kubernetes"/></code>
 
+<!--
 <h2>Stats</h2>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />
   <img src="https://leetcard.jacoblin.cool/Berat110?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats" height="196" style="vertical-align: middle;" />
-</div>
+</div> -->
