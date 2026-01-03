@@ -32,5 +32,5 @@ I'm a Computer Science student from Turkey. I specialize in Backend Development 
 
 <h2>Stats</h2>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />-->
   <img src="https://leetcard.jacoblin.cool/berat-berber?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats" height="196" style="vertical-align: middle;" />
