@@ -1,7 +1,5 @@
 <h1>Hi 👋, I'm Berat!</h1>
 
-<h2>About Me</h2>
-
 <h3>👨‍💻 Who Am I?</h3> 
 I'm a Computer Science student from Turkey. I specialize in Backend Development and work primarily with ASP.NET Core using C#. I like to work on projects that solve real problems. If you are hiring or want to collaborate, please reach out!
 
@@ -12,23 +10,24 @@ I'm a Computer Science student from Turkey. I specialize in Backend Development 
 
 <h2 align="left">Tech Stack</h2>
 <h3>Languages</h3>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="Bash"/></code>
+
+[![Languages](https://skillicons.dev/icons?i=cs,py,ts,bash)]()
 
 <h3>Frameworks</h3>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
+
+[![Frameworks](https://skillicons.dev/icons?i=dotnet)]()
 
 <h3>Databases</h3>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
-<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png" alt="MSSQL" title="MSSQL"/></code>
 
-<h3>Tools</h3>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+[![Databases](https://skillicons.dev/icons?i=postgres,redis)]()
+
+<h3>Developer Tools</h3>
+
+[![Developer Tools](https://skillicons.dev/icons?i=linux,arch,git,githubactions,docker,postman,neovim,vscode)]()
+
+<h3>Cloud</h3>
+
+[![Cloud](https://skillicons.dev/icons?i=azure,aws)]()
 
 <h2>Stats</h2>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
