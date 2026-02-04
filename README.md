@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Berat!</h1>
 
 <h3>👨‍💻 Who Am I?</h3> 
-I'm a Computer Science student from Turkey. I love to learn and work on AI, electronics and cloud. I specialize in Backend Development and work primarily with ASP.NET Core using C#. I like to work on projects that solve real problems. If you are hiring or want to collaborate, please reach out!
+I'm a Computer Science student from Turkey. I love to learn and work on APIs, AI, electronics and cloud technologies. I specialize in Backend Development and work primarily with ASP.NET Core using C#. I like to work on projects that solve real problems. If you are hiring or want to collaborate, please reach out!
 
 <h3>📫 Contact me!</h3>
 
