@@ -11,7 +11,7 @@ I'm a Computer Science student from Turkey. I love to learn and work on APIs, AI
 <h2 align="left">Tech Stack</h2>
 <h3>Languages</h3>
 
-[![Languages](https://skillicons.dev/icons?i=cs,go,py,bash)]()
+[![Languages](https://skillicons.dev/icons?i=cs,py)]()
 
 <h3>Frameworks</h3>
 
