@@ -15,7 +15,7 @@ I'm a Computer Science student from Turkey. I love to learn and work on APIs, AI
 
 <h3>Frameworks</h3>
 
-[![Frameworks](https://skillicons.dev/icons?i=dotnet)]()
+[![Frameworks](https://skillicons.dev/icons?i=dotnet,react)]()
 
 <h3>Databases</h3>
 
