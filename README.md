@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Berat!</h1>
 
 <h3>👨‍💻 Who Am I?</h3> 
-I'm a Computer Science student from Turkey. I love to learn and work on APIs, AI and cloud technologies. I specialize in Backend Development and work primarily with ASP.NET Core using C#. I also learn Go to deepen my understanding of cloud-native tooling. I like to work on projects that solve real problems. If you are hiring or want to collaborate, please reach out!
+I'm a Computer Science student from Turkey. I love to learn and work on APIs, AI and cloud technologies. I specialize in Backend Engineering and work primarily with ASP.NET Core using C#. I also learn Go to deepen my understanding of cloud-native tooling. I like to work on projects that solve real problems. If you are hiring or want to collaborate, please reach out!
 
 <h3>📫 Contact me!</h3>
 
@@ -31,5 +31,4 @@ I'm a Computer Science student from Turkey. I love to learn and work on APIs, AI
 
 <h2>Stats</h2>
 <div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=berat-berber&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" height="200" style="vertical-align: middle;" />-->
   <img src="https://leetcard.jacoblin.cool/berat-berber?theme=dark&font=Source%20Code%20Pro" alt="LeetCode Stats" height="196" style="vertical-align: middle;" />
