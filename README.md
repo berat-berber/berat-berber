@@ -5,7 +5,7 @@ I'm a Computer Science student from Turkey. I love to learn and work on APIs, AI
 
 <h3>Contact me!</h3>
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:berat0berber@gmail.com)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:contact@beratberber.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/berat-berber)
 
 <h2 align="left">Tech Stack</h2>
