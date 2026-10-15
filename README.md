@@ -1,4 +1,4 @@
-I'm a backend-focused developer who builds reliable APIs and well-structured backend services. Beyond application development, I'm exploring cloud infrastructure and AI engineering to better understand how modern software systems are built, deployed, and integrated with AI.
+I'm a backend-focused engineer who builds reliable APIs and well-structured backend services. Beyond application development, I'm exploring cloud infrastructure and AI engineering to understand better how modern software systems are built, deployed, and integrated with AI.
 
 **Languages**
 
